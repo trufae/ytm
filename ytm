@@ -1,0 +1,3 @@
+#!/bin/sh
+cd /Users/pancake/prg/ytm
+mono Main.exe $@
